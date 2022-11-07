@@ -1,5 +1,5 @@
 # Getting Started with Create React App 
-# convert all html design page into react
+# Converting all html design page into react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
